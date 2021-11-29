@@ -2,9 +2,7 @@
 
 This game was part of an assignment from the course 'Programming Dynamic Environments' @University Bremen
 
-![Screenshot-GameStart](screenshot-GameStart)
+<img src="screenshot-GameStart.png" width="300"> <img src="screenshot-InGame.png" width="300">
+<img src="screenshot-GameOver.png" width="300">
 
-![Screenshot-InGame](screenshot-InGame)
-
-![Screenshot-GameOver](screenshot-GameOver)
  
